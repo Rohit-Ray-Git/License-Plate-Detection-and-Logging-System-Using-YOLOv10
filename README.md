@@ -77,5 +77,11 @@ Interval-Based JSON:
     "License Plate": ["ABC123", "XYZ789"]
 }
 ```
+
+## **Demo**
+[Demo 1](https://drive.google.com/file/d/1MjsbiZYaWaiwoMx81VfzDvRHjjQL0K4C/view?usp=drive_link)
+
+[Demo 2](https://drive.google.com/file/d/1MkJkQcfOrjxBAtgMVLSo3gkmFIURpZeR/view?usp=drive_link)
+
 ## 🤝 **Contribution**
 Feel free to fork this repository and make improvements. Pull requests are welcome!
